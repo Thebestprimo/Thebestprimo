@@ -2,8 +2,8 @@
 ##
 <div>
   <a href="https:github.com/Thebestprimo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thebestprimo&show_icons=true&theme=slateorange"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thebestprimo&layout=compact&theme=slateorange"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Thebestprimo&show_icons=true&theme=slateorange"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Thebestprimo&layout=compact&theme=slateorange"/>
 </div>
 
 <h5>Atualmente estou estudando essas tecnologias abaixo!</h5>
